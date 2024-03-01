@@ -1,7 +1,12 @@
 {
   "name": "poti-kaini-EN_ynh",
   "version": "6.28.0",
-  "description": "Port of Poti board Oekaki customized for Yunohost",
+  "description": "Port of Poti board Oekaki customized for Yunohost", 
+  "main": "neo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  }
   "keywords": [
     "oekaki",
     "poti board",
