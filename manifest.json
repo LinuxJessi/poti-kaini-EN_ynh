@@ -15,5 +15,7 @@
     "yunohost"
   ],
   "author": "satopian",
-  "license": "https://github.com/LinuxJessi/poti-kaini-EN_ynh/blob/main/LICENSE"
+  "license": "https://github.com/LinuxJessi/poti-kaini-EN_ynh/blob/main/LICENSE",
+  "screenshot": "screenshot.png",
+  "locale": "en-US"
 }
