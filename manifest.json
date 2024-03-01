@@ -1,0 +1,14 @@
+{
+  "name": "poti-kaini-EN_ynh",
+  "version": "6.28.0",
+  "description": "Port of Poti board Oekaki customized for Yunohost",
+  "keywords": [
+    "oekaki",
+    "poti board",
+    "paintbbs",
+    "drawing",
+    "yunohost"
+  ],
+  "author": "satopian",
+  "license": "https://github.com/LinuxJessi/poti-kaini-EN_ynh/blob/main/LICENSE"
+}
